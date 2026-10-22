@@ -1,4 +1,4 @@
-# CodeAlpha Power BI Internship Tasks
+# Power BI Internship Tasks
 
 This repository contains the Power BI projects completed as part of my **CodeAlpha Power BI Internship**.
 
